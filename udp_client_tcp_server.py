@@ -4,6 +4,8 @@ import random  # Import random to generate random letters
 import string  # Import string to get a list of alphabet letters
 import time  # Import time to optionally sleep between retries
 
+# lebron james hairline
+
 # ====================== CONFIGURATION SECTION ======================
 
 REMOTE_MACHINE_IP = "127.0.0.1"  # IP address of the other student's machine (update this)
